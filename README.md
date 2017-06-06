@@ -1,4 +1,4 @@
-Example of implementation assymetric cryptography algorithms on Golang with ASN.1 encoding. 
+Example of implementation assymetric cryptography algorithms in Golang with ASN.1 encoding. 
 
 
 * RSA (Encrypting and signing)
